@@ -1,3 +1,5 @@
+
 Git Workflow Implementation
 
 Feature A: Automated code integration.
+Feature B: Automated testing with GitHub Actions.
